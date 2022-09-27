@@ -4,3 +4,9 @@ body{
 h1{
     color: hsl(010, 100%, 50%, 0.9);
 }
+#main-heading{
+    color: blue;
+}
+.list-items{
+    color: hsl(110, 100%, 50%, 0.9);
+}
